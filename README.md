@@ -5,7 +5,7 @@
     <li>Open <a href="chrome://extensions/"> chrome://extensions/</a></li>
     <li>
       Switch on Developer Mode <br>
-      <img src="img1.png" alt="" width="50%">
+      <img src="img1.png" alt="">
     </li>
     <li>
       Click on "Load unpacked" And Select Folder
